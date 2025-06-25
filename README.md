@@ -1,17 +1,5 @@
 # BUILD-A-CHROME-EXTENSION-FOR-PRODUCTIVITY-MANAGEMENT
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: KAVIYATHAMIZHAN T K
-
-INTERN ID: CT08WC44
-
-DOMAIN: MERN STACK WEB DEVELOPMENT
-
-DURATION: 8 WEEEKS
-
-MENTOR: NEELA SANTOSH
-
 DESCRIPTION : 
 
 Overview: The Productivity Tracker Chrome Extension is a lightweight browser tool designed to help users monitor and manage their web activity. Built using HTML, CSS, JavaScript, and Chrome Extension APIs, this extension allows users to track the amount of time spent on different websites, block distracting domains, and view daily productivity reports — all locally without needing an internet connection or backend database.
